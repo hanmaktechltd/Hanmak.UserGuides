@@ -1,4 +1,4 @@
-## Doctor Page Guide
+# Doctor Panel Guide
 
 This guide provides detailed instructions for using the Doctor page in the Clinical module of MedicentreV3.
 
