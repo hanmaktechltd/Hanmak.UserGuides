@@ -33,7 +33,7 @@ To access the Doctors Panel:
 2. Navigate to the **Clinical** module from the side navigation.
 3. Click on the **Doctor** link to open the Doctors Panel.
 
-![alt text](image.png)
+![alt text](screenshots/access-doctors.png)
 
 ## Selecting a Patient
 
@@ -42,7 +42,7 @@ To select a patient from the mini-queue:
 1. Locate the mini-queue table at the top-right corner of the Doctors Panel.
 2. Click on the patient’s name from the list to load their details in the main panel.
 
-![alt text](image-1.png)
+![alt text](screenshots/doctors-mini-queue.png)
 
 ## Capturing Clinical Notes
 
@@ -92,7 +92,7 @@ To capture the final diagnosis:
 1. Enter the confirmed diagnosis in the **Diagnosis** field. Type to filter out **ICD 10/11** diagnosis for selection.
 2. Click the **+** button to add.
 
-![alt text](image-2.png)
+![alt text](screenshots/doctors-notes.png)
 
 ## Creating Laboratory Requests
 
@@ -103,7 +103,7 @@ To create a laboratory request for the patient:
 3. Capture the **History** if applicable.
 4. Click **+** button to add the lab test to the laboratory request.
 
-![alt text](image-3.png)
+![alt text](screenshots/lab-request.png)
 
 ## Prescriptions
 
@@ -143,7 +143,7 @@ To generate a prescription report:
 2. Review the report for accuracy.
 3. Print or save the report as needed.
 
-![alt text](image-4.png)
+![alt text](screenshots/prescriptions.png)
 
 ---
 
