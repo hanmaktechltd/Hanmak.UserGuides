@@ -42,8 +42,11 @@ Go to the original repository and click on the "New Pull Request" button. Choose
 
 Once your pull request is submitted, it will be reviewed by the maintainers. Please be patient, as this process may take some time. If any changes are requested, kindly make the necessary updates.
 
-### 5. Clone Your Fork
+### 5. Merge Your Fork
 
 All contributions will be reviewed for accuracy, completeness, and adherence to the repository's structure. Once approved, your changes will be merged into the main branch.
+
+**Note:**
+It is advised to place screenshots, on a folder labelled *screenshots*, on the user guide's working directory.
 
 Happy documenting!
